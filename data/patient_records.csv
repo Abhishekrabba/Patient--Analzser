@@ -1,1 +1,7 @@
+ PatientID, Name, Age, HeartRate, SystolicBP, DiastolicBP, Glucose
 
+P001,Anil,65,88,150,95,180
+
+P002,Sneha,34,72,120,80,95
+
+P003,Rahul,48,130,170,110,250
